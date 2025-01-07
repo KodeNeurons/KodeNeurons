@@ -32,8 +32,8 @@ We are passionate about innovation, collaboration, and delivering impactful solu
 
 ## 📌 Stay Connected
 Follow us for exciting updates, tutorials, and impactful projects:
-- **WhatsApp Channel:** [https://whatsapp.com/channel/0029Vb2SFH82ER6f2C7AxP1J]
-- **GitHub:** [https://github.com/KodeNeurons]
+- **WhatsApp Channel:** [https://whatsapp.com/channel/0029Vb2SFH82ER6f2C7AxP1J](#)
+- **GitHub:** [https://github.com/KodeNeurons](#)
 
 ---
 
